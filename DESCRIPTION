@@ -1,9 +1,11 @@
 Package: ARTISutils
-Title: What the Package Does (One Line, Title Case)
+Title: Functions for ARTIS Analyses
 Version: 0.0.0.9000
-Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Authors@R: c(
+    person("Althea", "Marks", , "amarks1@uw.edu", role = c("aut", "cre")),
+    person("Jessica", "Gephart", , "gephart@uw.edu", role = c("aut", "ctb"))
+  )
+Description: Standardize Countries, join to other databases, etc. TBD
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)

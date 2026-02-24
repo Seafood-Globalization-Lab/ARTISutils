@@ -5,7 +5,10 @@
 [![R-CMD-check](https://github.com/Seafood-Globalization-Lab/ARTISutils/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Seafood-Globalization-Lab/ARTISutils/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
-The goal of ARTISutils is to ...
+The goal of ARTISutils is to provide a suite of standardized analysis functions/protocols for working with the ARTIS database. 
+
+> [!NOTE]  
+> This package is not yet functioning. This is a template to start collecting issues and ideas for the planned ARTISutils package -AM 2026-02-24
 
 ## Installation
 
